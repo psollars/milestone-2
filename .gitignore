@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+
+# Cache
+supervised/catboost_info
+
+# Large files
+data
