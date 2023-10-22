@@ -106,10 +106,8 @@ Informed by our unsupervised learning work to assist with feature selection and 
   - catboost_grid_search
   - catboost_feature_sensitivity TODO
 - time_series
-  - SARIMAX Time Series Analysis
-  - (Aaron I'm sure there are others)
+  - Supervised Learning - Time Series Analysis
 - unsupervised
-  - Unsupervised Learning for Flight Delays Prediction (Cecilia, I only have this as .html)
-  - (Cecilia I'm sure there are others)
+  - Unsupervised Learning for Flight Delays Prediction
 - visualizations
   - Any visualizations that were generated from the notebooks above
