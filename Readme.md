@@ -93,10 +93,9 @@ Informed by our unsupervised learning work to assist with feature selection and 
   - faa_eda
   - bts_eda
 - feature_selection
-  - Automated Feature Selection_Sudo_BTS_CC (Cecilia)
-  - PCA (Cecilia)
-  - feature_selection_2019 (Patrick manual Ridge and Lasso analysis)
-  - consolidated_all_delays_feature_selection (Patrick - The dataset used for supervised)
+  - Feature Selection Sensitivity Testing
+  - feature_selection_2019
+  - consolidated_all_delays_feature_selection
 - supervised
   - model_selection_all_delays_ORD_UA_logistic_regression
   - model_selection_all_delays_ORD_UA_random_forest
