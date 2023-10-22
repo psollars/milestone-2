@@ -73,7 +73,6 @@ Informed by our unsupervised learning work to assist with feature selection and 
 - [2] Prabakaran N. and Rajendran Kannadasan, Airline Delay Predictions using Supervised Machine Learning, International Journal of Pure and Applied Mathematics, 119(7), February 2018. https://www.researchgate.net/publication/325034541_Airline_Delay_Predictions_using_Supervised_Machine_Learning. (Accessed 1 September 2023.)
 - [3] Herbas, Javier. Using Machine Learning to Predict Flight Delays, Analytics Vidhya, 17 October 2020. https://medium.com/analytics-vidhya/using-machine-learning-to-predict-flight-delays-e8a50b0bb64c. (Accessed 1 September 2023)
 
-
 # Table of Contents
 
 - data_samples
@@ -88,11 +87,11 @@ Informed by our unsupervised learning work to assist with feature selection and 
   - bts_faa_join
   - airport_codes
 - eda
-  - delay_type_analysis (Patrick combine delay_type and correlation)
+  - delay_type_analysis
   - top_airports_2019
-  - EDA_BTS_CC (Cecilia)
+  - EDA for Flight Delays Prediction
   - faa_eda
-  - import_data_sets (BTS EDA from Cecilia)
+  - bts_eda
 - feature_selection
   - Automated Feature Selection_Sudo_BTS_CC (Cecilia)
   - PCA (Cecilia)
