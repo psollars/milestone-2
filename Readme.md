@@ -77,12 +77,14 @@ Informed by our unsupervised learning work to assist with feature selection and 
 # Table of Contents
 
 - data_samples
-  - bts_faa_coords.csv
-  - df_top_airline_airport.csv
-  - consolidated_features_2019.csv
+  - data_sampling.ipynb
+  - bts_faa_coords_sample.csv
+  - all_features_2019_sample.csv
+  - top_airline_airport_2019_sample.csv
+  - top_airline_airport_consolidated_features_2019.csv
 - data_cleaning
   - faa_join
-  - bts_cleaning_and_joining (Aaron, still need this one)
+  - Build Clean Sqlite
   - bts_faa_join
   - airport_codes
 - eda
