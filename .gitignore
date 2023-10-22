@@ -2,7 +2,9 @@
 .idea
 
 # Cache
+data_samples/.tmp
 supervised/catboost_info
 
 # Large files
 data
+old_data
