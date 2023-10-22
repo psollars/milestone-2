@@ -104,7 +104,7 @@ Informed by our unsupervised learning work to assist with feature selection and 
   - model_selection_all_delays_ORD_UA_xgboost
   - model_selection_all_delays_ORD_UA_catboost
   - catboost_grid_search
-  - catboost_feature_sensitivity TODO
+  - catboost_sensitivity_analysis
 - time_series
   - Supervised Learning - Time Series Analysis
 - unsupervised
